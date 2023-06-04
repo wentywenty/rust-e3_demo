@@ -1,0 +1,11 @@
+/home/flora/Documents/GitHub/rust-e3_demo/e3_demo/target/debug/deps/cargo_metadata-ca58783bd507282a.rmeta: /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/flora/Documents/GitHub/rust-e3_demo/e3_demo/target/debug/deps/libcargo_metadata-ca58783bd507282a.rlib: /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/flora/Documents/GitHub/rust-e3_demo/e3_demo/target/debug/deps/cargo_metadata-ca58783bd507282a.d: /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs:
+/home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs:
+/home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs:
+/home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs:
+/home/flora/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs:
